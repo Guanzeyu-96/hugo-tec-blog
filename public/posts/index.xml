@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Zeyu&#39;s Tec World</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Zeyu&#39;s Tec World</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 01 Mar 2025 11:52:09 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Sat, 01 Mar 2025 11:52:09 +0800</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;h2 id=&#34;inrtoduction&#34;&gt;Inrtoduction&lt;/h2&gt;&#xA;&lt;p&gt;This is my &lt;strong&gt;first&lt;/strong&gt; post. I am testing the blog.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;test 1&lt;/li&gt;&#xA;&lt;li&gt;test 2&lt;/li&gt;&#xA;&lt;li&gt;test 3&lt;/li&gt;&#xA;&lt;li&gt;中文支持测试&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-scala&#34; data-lang=&#34;scala&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#66d9ef&#34;&gt;val&lt;/span&gt; a &lt;span style=&#34;color:#66d9ef&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;1&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#66d9ef&#34;&gt;val&lt;/span&gt; b &lt;span style=&#34;color:#66d9ef&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;2&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#66d9ef&#34;&gt;val&lt;/span&gt; c &lt;span style=&#34;color:#66d9ef&#34;&gt;=&lt;/span&gt; a &lt;span style=&#34;color:#f92672&#34;&gt;+&lt;/span&gt; b&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
+  </channel>
+</rss>

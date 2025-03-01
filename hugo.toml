@@ -1,0 +1,4 @@
+baseURL = 'https://zeyu.org/'
+languageCode = 'zh-cn'
+title = "Zeyu's Tec World"
+theme = 'ananke'
