@@ -9,11 +9,19 @@ Blog deployed on [My personal git page site](https://guanzeyu-96.github.io/hugo-
 Hugo is a static site generator 👉 [here](https://gohugo.io/).
 
 Start server (add -D to include drafts version):
+
 ```bash
 hugo server
 ```
 
 Build the site:
+
 ```bash
 hugo
+```
+
+Add theme as git submodule:
+
+```bash
+git submodule add https://github.com/theNewDynamic/gohugo-theme-ananke.git themes/ananke
 ```
